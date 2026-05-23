@@ -1,0 +1,8 @@
+{
+  "name": "rwa-tokenization-engine",
+  "version": "1.0.0",
+  "description": "Professional RWA fractionalization framework",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
